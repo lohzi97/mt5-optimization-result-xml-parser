@@ -1,3 +1,8 @@
+About
+=====
+
+This is a script that convert MT5 generated optimization xml file into csv file.
+
 How to run the script
 =====================
 
